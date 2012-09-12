@@ -49,5 +49,3 @@ _ReSharper*/
 var/
 #ignore user's customised iisexpress configurations
 applicationHost.config
-src/Websites/CyberGo/Consumer/CyberGo.AutoGo.Web/Content/Files
-src/Web/RavenDB.Web
