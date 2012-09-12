@@ -1,0 +1,4 @@
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Messages\bin\Debug\MassTransit.Sandbox.Messages.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Messages\bin\Debug\MassTransit.Sandbox.Messages.pdb
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Messages\obj\Debug\MassTransit.Sandbox.Messages.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Messages\obj\Debug\MassTransit.Sandbox.Messages.pdb

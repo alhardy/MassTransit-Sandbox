@@ -1,0 +1,13 @@
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.Sandbox.Common.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.Sandbox.Common.pdb
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\Magnum.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.Transports.MSMQ.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\Magnum.pdb
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\Magnum.xml
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.pdb
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.xml
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.Transports.MSMQ.pdb
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\bin\Debug\MassTransit.Transports.MSMQ.xml
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\obj\Debug\MassTransit.Sandbox.Common.dll
+E:\Source\MySource-Git\MassTransit.Sandbox\MassTransit.Sandbox.Common\obj\Debug\MassTransit.Sandbox.Common.pdb
